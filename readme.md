@@ -5,7 +5,7 @@
 O projeto é um gerenciador de lista de afazeres (To-Do List) desenvolvido como parte do evento NLW Journey da Rocketseat. O objetivo é ampliar o aprendizado através da criação de uma aplicação prática que ajuda a gerenciar tarefas diárias.
 
 
-![Screenshot do Projeto](.readme\image.png)
+![Screenshot do Projeto](https://github.com/weversonmelky/nlw-journey/assets/107736909/d150a774-185e-49b8-8893-ed02c27c8c6e)
 
 
 ## Motivação
