@@ -28,8 +28,8 @@ let atividades = [
     finalizada: true
   },
   {
-    nome: "Estudar programação",
-    data: new Date("2024-07-11 16:00"),
+    nome: "NLW JOURNEY",
+    data: new Date("2024-07-11 19:00"),
     finalizada: false
   }
 ]
