@@ -14,7 +14,7 @@ html, input, select, button, option{
 
 #app{
     padding: 40px 20px;
-    max-width: 80%;
+    max-width: 70%;
     margin: auto;
 }
 
@@ -111,6 +111,8 @@ section .card-bg{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    transition: background-color .3s;
+
 }
 
 section .card-bg:has(:checked) .active,
@@ -127,6 +129,10 @@ section .card-bg > div{
     display: flex;
     gap: 12px;
     align-items: center;
+}
+
+section .card-bg:hover{
+    background-color: #0d0d0f;
 }
 
 time{
