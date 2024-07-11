@@ -31,7 +31,7 @@ Este projeto foi criado para participar do evento NLW Journey da Rocketseat, que
 
 Para acessar o projeto, visite o seguinte link:
 
-[TO DO LIST - NLW JOURNEY](https://weversonmelky.github.io/nlw-journey/)
+[NLW JOURNEY](https://weversonmelky.github.io/nlw-journey/)
 
 ## Uso
 
